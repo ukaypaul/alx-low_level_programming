@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * manin - A program printing sizies
- * Return 0 (correct)
+ * main - A program printing size of various computer type
+ * Return: 0(correct)
  */
 int main(void)
 {
-	char a;
+	cihar a;
 	int b;
 	long int c;
 	long long int d;
